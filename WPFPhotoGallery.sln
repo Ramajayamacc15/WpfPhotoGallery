@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfGallery", "WpfApp1\WpfGallery.csproj", "{84D722D0-6B3F-4D58-8458-57E8A83906A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84D722D0-6B3F-4D58-8458-57E8A83906A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D722D0-6B3F-4D58-8458-57E8A83906A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D722D0-6B3F-4D58-8458-57E8A83906A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D722D0-6B3F-4D58-8458-57E8A83906A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24BA757D-3A33-425D-BC04-7C815A0D081A}
+	EndGlobalSection
+EndGlobal
